@@ -17,7 +17,7 @@
 
 
 #include "main.h"
-、、
+//、、
 
 
 unsigned int timer=0;
